@@ -1,4 +1,4 @@
-# AI_Weather_Assistant
+# AI-Weather-Assistant
 一款基于ChatGPT、高德地图API的智能APP（工具）。
 #### 4.18 建立仓库
 #### 4.21 项目总体分为两部分（1.天气预报部分 2.AI机器人部分）
