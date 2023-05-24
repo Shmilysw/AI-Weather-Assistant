@@ -1,5 +1,7 @@
 # AI-Weather-Assistant
 
++ Releases : apk文件已经上传
+
 ## 项目结构（重要）
 + Forecast : 完整项目（集合了定位服务和机器人聊天项目）
 + MyRobot  : 机器人聊天项目
